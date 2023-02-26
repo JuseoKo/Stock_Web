@@ -1,7 +1,7 @@
 ### content
 ---
-1. 주식정보사이트 구현(예정)
-2. 인공지능 예측 서비스(예정)
+주식정보사이트
+
 ### stack
 <img src="https://img.shields.io/badge/Django-092E20?&logo=Django&logoColor=white">
 
