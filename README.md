@@ -1,6 +1,6 @@
 ### content
 ---
-주식정보사이트
+주식정보사이트(슈카월드 엔톡)
 
 ### stack
 <img src="https://img.shields.io/badge/Django-092E20?&logo=Django&logoColor=white">
