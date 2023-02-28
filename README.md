@@ -1,9 +1,10 @@
 ### content
 ---
-주식정보사이트(슈카월드 엔톡)
+주식정보사이트(슈카월드 엔톡보고 감명받음)
 
 ### stack
 <img src="https://img.shields.io/badge/Django-092E20?&logo=Django&logoColor=white">
+<img src="https://img.shields.io/badge/Django-092E20?&logo=DRF&logoColor=white">
 
 
 ### Language
